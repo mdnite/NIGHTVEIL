@@ -1,5 +1,3 @@
-#Nightveil
-
 <img width="448" height="125" alt="ascii-art-text" src="https://github.com/user-attachments/assets/5379774d-188b-4f17-9b31-91d128f8ab9f" />
 
 
